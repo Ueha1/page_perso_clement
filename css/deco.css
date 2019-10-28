@@ -1,3 +1,25 @@
-body{
-    text-align: center;
+nav.menu-nav ul li.bouton{
+  display: inline-block;
+  list-style-type: none;
+}
+
+nav.menu-nav ul li.bouton a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0.151);
+  padding: 5px;
+  font-size: 20px;
+}
+
+nav.menu-nav ul li.bouton:hover a{
+  color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0.815);
+  transition: 0.3s all;
+}
+
+header{
+  background-color: black;
+  color: white;
+  font-size: 50px;
+  text-align: center;
 }
