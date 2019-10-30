@@ -1,7 +1,7 @@
 nav.menu-nav ul li.bouton{
     display: inline-block;
     list-style-type: none;
-  }
+}
   
   nav.menu-nav ul li.bouton a{
     color: rgb(255, 255, 255);
@@ -9,13 +9,13 @@ nav.menu-nav ul li.bouton{
     background-color: rgba(0, 0, 0, 0.500);
     padding: 5px;
     font-size: 20px;
-  }
+}
   
   nav.menu-nav ul li.bouton:hover a{
     color: rgb(255, 255, 255);
     background-color: rgba(0, 0, 0, 0.850);
     transition: 0.3s all;
-  }
+}
 
 header{
     background-color: hsla(0, 0%, 0%, 0.850);
@@ -25,7 +25,7 @@ header{
     font-weight: bold;
     font-family: cursive;
     line-height: 250px;
-  }
+}
 
 article{
     font-size: 25px;
