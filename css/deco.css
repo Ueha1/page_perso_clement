@@ -7,7 +7,7 @@ nav.menu-nav ul li.bouton a{
   color: rgb(255, 255, 255);
   text-decoration: none;
 
-  background-color: rgba(0, 0, 0, 0.500);
+  background-color: rgba(0, 0, 0, 0.250);
   padding: 5px;
   font-size: 20px;
 }
@@ -19,7 +19,7 @@ nav.menu-nav ul li.bouton:hover a{
 }
 
 header{
-  background-color: hsla(0, 0%, 0%, 0.850);
+  background-color: hsla(0, 0%, 0%, 0.250);
   color: white;
   font-size: 50px;
   text-align: center;
@@ -29,5 +29,5 @@ header{
 }
 
 body{
-  background-color: rgb(137, 154, 255);
+  background-color: rgb(255, 255, 255);
 }
