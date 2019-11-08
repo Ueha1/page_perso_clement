@@ -6,10 +6,9 @@ nav.menu-nav ul li.bouton{
 nav.menu-nav ul li.bouton a{
   color: rgb(255, 255, 255);
   text-decoration: none;
-
   background-color: rgba(0, 0, 0, 0.250);
-  padding: 5px;
-  font-size: 20px;
+  padding: 10px;
+  font-size: 30px;
 }
 
 nav.menu-nav ul li.bouton:hover a{
