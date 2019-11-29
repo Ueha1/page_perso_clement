@@ -8,6 +8,17 @@ html,body
     grid-auto-rows: 100px;
 }
 
+#global{
+    width :98% ;
+    margin :auto ;
+    padding :18px ;
+    background :rgb(255, 201, 23);
+}
+
+header{
+    width: 100%;
+}
+
 div.Titre{
     text-align: center;
     color:rgb(255, 255, 255);
@@ -22,9 +33,9 @@ div.Titre{
 div.Texte{
     text-align: justify;
     color:rgb(255, 255, 255);
-    padding:75px;
+    padding:50px;
     background-color:#16242F;
-    font-size:20px ;
+    font-size:175% ;
     block-size: auto;
     font-family: 'Montserrat';
 }
@@ -60,9 +71,14 @@ div.Couleur{
 footer{
     text-align: justify;
     color:rgb(255, 255, 255);
-    padding:40px;
+    padding:20px;
     background-color:#16242F;
-    font-size:13px ;
+    font-size:175%;
     block-size: auto;
     font-family: 'Montserrat';
+}
+
+.logolk{
+    width: 5%;
+    height: 5%;
 }
